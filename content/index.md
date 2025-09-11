@@ -1,6 +1,7 @@
 ---
 title: Welcome to The Blog
----
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+
+---
+Welcome to The Blog! See the [documentation](https://quartz.jzhao.xyz) for how to get started.
